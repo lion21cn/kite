@@ -6,3 +6,5 @@ functional Description: //功能描述
                         2.Four axis flight //四轴飞行
                         3.2.4G wireless remote control //2.4G无线电遥控
                         4.Lithium battery power //锂电池供电
+                        5.带LCD显示器
+                        6.带LED灯
